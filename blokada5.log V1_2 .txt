@@ -264,7 +264,6 @@
 127.0.0.1	s.w.org
 127.0.0.1	s.w-x.co
 127.0.0.1	s0.2mdn.net
-127.0.0.1	s3-eu-central-1.amazonaws.com
 127.0.0.1	saxp.zedo.com
 127.0.0.1	sb.monetate.net
 127.0.0.1	sb.scorecardresearch.com
