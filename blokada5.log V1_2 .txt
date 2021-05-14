@@ -333,7 +333,6 @@
 127.0.0.1	sjc3.discourse-cdn.com
 127.0.0.1	userlocation.googleapis.com
 127.0.0.1	o274448.ingest.sentry.io
-127.0.0.1	s3-eu-central-1.amazonaws.com
 127.0.0.1	edgedl.gvt1.com
 127.0.0.1	cdn.jsdelivr.net
 127.0.0.1	4.168.217.172.in-addr.arpa
