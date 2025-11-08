@@ -1,4 +1,4 @@
-tace.mediago.io
+trace.mediago.io
 ssl.google-analytics.com
 googleads.g.doubleclick.net
 mobile-collector.newrelic.com
@@ -499,3 +499,4 @@ umbxmxosipt
 www.googleapis.com
 xneyevi
 yvglkbtyo
+
