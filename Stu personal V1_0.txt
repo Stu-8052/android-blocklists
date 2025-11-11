@@ -1,3 +1,4 @@
+fra1-ib.adnxs-simple.com
 trace.mediago.io
 ssl.google-analytics.com
 googleads.g.doubleclick.net
@@ -499,4 +500,5 @@ umbxmxosipt
 www.googleapis.com
 xneyevi
 yvglkbtyo
+
 
