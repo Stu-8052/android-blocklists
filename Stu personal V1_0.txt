@@ -1,5 +1,7 @@
 fra1-ib.adnxs-simple.com
 trace.mediago.io
+ad.doubleclick.net
+fra1-ib.adnxs-simple.com
 ssl.google-analytics.com
 googleads.g.doubleclick.net
 mobile-collector.newrelic.com
@@ -500,5 +502,6 @@ umbxmxosipt
 www.googleapis.com
 xneyevi
 yvglkbtyo
+
 
 
